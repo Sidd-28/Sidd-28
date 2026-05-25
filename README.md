@@ -46,5 +46,5 @@ Networking       TCP/IP · OSI Model · Wireshark · Nmap · Kali Linux
 
 ## 📬 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siddhant%20Bhavsar-blue?style=flat&logo=linkedin)](https://linkedin.com/in/siddhant-bhavsar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siddhant%20Bhavsar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/siddhant-bhavsar-738386337)
 [![Email](https://img.shields.io/badge/Email-siddhabhavsar%40gmail.com-red?style=flat&logo=gmail)](mailto:siddhabhavsar@gmail.com)
